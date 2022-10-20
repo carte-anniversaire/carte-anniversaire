@@ -1,0 +1,20 @@
+body {
+    background: rgba(249, 255, 166, 0.306);
+}
+
+button {
+    background: rgb(255, 255, 255);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all .4s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+img {
+    width: 30%;
+    margin-top: 3%;
+}
+
